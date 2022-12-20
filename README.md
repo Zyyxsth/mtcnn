@@ -1,6 +1,6 @@
 \
 <font size=4.5>**人工智能原理实验第二次作业**\
-by **！！！**</font>
+by **zhang yuying 10TV Linshy**</font>
 
 # 1.MTCNN说明
 
